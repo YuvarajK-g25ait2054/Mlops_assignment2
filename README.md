@@ -175,7 +175,7 @@ Top 3 predictions:
 | Young Adult | 0.75 | 0.62 | 0.68 |
 | Fantasy & Paranormal | 0.51 | 0.23 | 0.32 |
 
-See `evaluation_results.json` for complete metrics.
+See `eval_report.json` for complete metrics.
 
 ### Project Links
 
