@@ -229,20 +229,6 @@ probs = torch.softmax(outputs.logits, dim=1)
 predicted_class = torch.argmax(probs)
 ```
 
-## Notes & Troubleshooting
-
-**Performance**:
-- Training takes ~10-15 minutes on GPU, ~45-60 minutes on CPU
-- First run downloads ~2 GB of Goodreads data
-- Random sampling means slight result variance between runs
-
-**Common Issues**:
-
-1. **Out of Memory**: Reduce batch size in `train.py` (try `8` or `4`)
-2. **W&B Login Required**: Run `wandb login` before training
-3. **HF Push Failed**: Run `huggingface-cli login` and verify token permissions
-4. **Data Download Slow**: UCSD servers may be slow; be patient on first run
-
 ## License
 
 This project is for academic purposes. Dataset credit: UCSD Book Graph.
