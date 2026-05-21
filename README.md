@@ -185,21 +185,6 @@ See `evaluation_results.json` for complete metrics.
 - **Weights & Biases Dashboard**: https://wandb.ai/g25ait2054-iit-jodhpur/mlops-assignment2
 - **Kaggle Notebook**: https://www.kaggle.com/code/kyuvarajg25ait2054/g25ait2054-yuvaraj
 
-## Files Generated During Execution
-
-These files are created when you run the scripts and should be added to `.gitignore`:
-
-| File/Directory | Description | Size (approx) |
-|----------------|-------------|---------------|
-| `genre_reviews_dict.pickle` | Cached review dataset | ~50 MB |
-| `label_mappings.json` | Genre to label ID mappings | ~1 KB |
-| `distilbert-reviews-genres/` | Fine-tuned model directory | ~250 MB |
-| `evaluation_results.json` | Test metrics and classification report | ~2 KB |
-| `results/` | Training checkpoints (saved every epoch) | ~750 MB |
-| `wandb/` | Experiment tracking logs and artifacts | ~10 MB |
-
-## Experiment Tracking & Model Hosting
-
 ### Project Links
 
 | Platform | Link |
