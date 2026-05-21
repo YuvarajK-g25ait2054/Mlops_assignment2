@@ -177,13 +177,6 @@ Top 3 predictions:
 
 See `evaluation_results.json` for complete metrics.
 
-## Project Links
-
-- **GitHub Repository**: https://github.com/YuvarajK-g25ait2054/Mlops_assignment2
-- **Hugging Face Model**: https://huggingface.co/YuvarajK-g25ait2054/distilbert-goodreads-genres-V2
-- **Weights & Biases Dashboard**: https://wandb.ai/g25ait2054-iit-jodhpur/mlops-assignment2
-- **Kaggle Notebook**: https://www.kaggle.com/code/kyuvarajg25ait2054/g25ait2054-yuvaraj
-
 ### Project Links
 
 | Platform | Link |
