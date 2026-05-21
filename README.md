@@ -157,11 +157,11 @@ Top 3 predictions:
 
 ### Model Performance
 
-| Metric | Value |
-|--------|-------|
-| Accuracy | 66.75% |
-| F1 Score | 65.46% |
-| Loss | 0.9423 |
+| Metric | Value% | Score|
+|--------|-------||-------|
+| Accuracy | 66.75% | 0.6675
+| F1 Score | 65.46% | 0.6546
+| Loss | -- |0.9423
 
 ### Per-Genre Performance
 
