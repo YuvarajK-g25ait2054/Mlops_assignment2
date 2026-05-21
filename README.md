@@ -165,9 +165,9 @@ Top 3 predictions:
 
 | Metric    | Percentage | Score  |
 |-----------|-----------:|-------:|
-| Accuracy  | 66.75%     | 0.6675 |
-| F1 Score  | 65.46%     | 0.6546 |
-| Loss      | —          | 0.9423 |
+| Accuracy  | 60.31%     | 0.6031 |
+| F1 Score  | 60.07%     | 0.6007 |
+| Eval Loss | —          | 2.2373 |
 
 ### Per-Genre Performance
 
