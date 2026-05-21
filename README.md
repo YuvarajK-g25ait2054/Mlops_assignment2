@@ -154,14 +154,13 @@ Top 3 predictions:
 | Model Registry | Hugging Face Hub |
 
 ## Results
+## Model Performance
 
-### Model Performance
-
-| Metric | Value% | Score|
-|--------|-------||-------|
-| Accuracy | 66.75% | 0.6675
-| F1 Score | 65.46% | 0.6546
-| Loss | -- |0.9423
+| Metric    | Percentage | Score  |
+|-----------|-----------:|-------:|
+| Accuracy  | 66.75%     | 0.6675 |
+| F1 Score  | 65.46%     | 0.6546 |
+| Loss      | —          | 0.9423 |
 
 ### Per-Genre Performance
 
