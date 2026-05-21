@@ -2,6 +2,13 @@
 
 A fine-tuned DistilBERT model for multi-class book review genre classification using the UCSD Goodreads dataset. This project demonstrates end-to-end MLOps practices including data processing, model training, evaluation, experiment tracking with Weights & Biases, and model deployment to Hugging Face Hub.
 
+## Project Links
+
+- **GitHub Repository**: https://github.com/YuvarajK-g25ait2054/Mlops_assignment2
+- **Hugging Face Model**: https://huggingface.co/YuvarajK-g25ait2054/distilbert-goodreads-genres-V2
+- **Weights & Biases Dashboard**: https://wandb.ai/g25ait2054-iit-jodhpur/mlops-assignment2
+- **Kaggle Notebook**: https://www.kaggle.com/code/kyuvarajg25ait2054/g25ait2054-yuvaraj
+
 ## Project Overview
 
 This project classifies book reviews into 8 different genres using transfer learning with DistilBERT. The model achieves 66.75% accuracy across 800 test samples with comprehensive experiment tracking and model versioning.
